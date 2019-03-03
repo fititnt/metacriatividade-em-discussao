@@ -4,6 +4,8 @@ Pode envolver [outros assuntos meta*](https://en.wikipedia.org/wiki/Meta), como
 meta-discussão, meta-aprendizagem, metacognição, e tentativas de aplicações
 práticas que induzem criatividade ou evitam redução desta.
 
+- [2019-02-12] [Justificativa sobre zelo extra com novos membros na comunidade de código aberto / Contextualização via exemplo do código de Conduta do Ubuntu](https://github.com/pokemongovet/pokemongovet.github.io/pull/74#issuecomment-462642056)
+  - github/pokemongovet: @fititnt
 - [2017-05-01] [Opiniões para melhorar relação do Brasil entre importação e exportação de tecnologia, foco software](https://github.com/frontendbr/forum/issues/557)
   - github/frontendbr-forum: @fititnt
 - [2017-04-27] [Considerando lado da empresa: o que mudar na cultura dos desenvolvedores para aumentar competitividade do Brasil?](https://github.com/frontendbr/forum/issues/555)
