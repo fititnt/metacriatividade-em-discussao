@@ -2,10 +2,48 @@
 Links para discussões publicas em português sobre criatividade em ser criativo.
 Pode envolver [outros assuntos meta*](https://en.wikipedia.org/wiki/Meta), como
 meta-discussão, meta-aprendizagem, metacognição, e tentativas de aplicações
-práticas que induzem criatividade ou evitam redução desta.
+práticas que induzem criatividade ou evitam redução desta, como agressividade
+toxica em comunidade, preconceitos, racismo e xenofobia.
 
+- [2019-03-16] [Discussão na APDA de angolanos agradecendo hospitalidade de brasileiros / Rocha pedindo que Angolanos também procurem ser gentis com migrantes/refugiados da República Democrática do Congo](https://www.facebook.com/groups/osadpa/permalink/1862425047196347/)
+  - Facebook, APDA: Autor Andrew M.A.; Emerson Rocha (ver comentários)
+  - Contexto antes do post: em **outra** discussão (no grupo Desenvolvimento Web)
+    um dos motivos que brasileiros argumentaram para invalidar esforços de
+    ajudar angolanos era usar vídeos e até prints screens de Angolanos falando
+    mal dos próprios angolanos
+    - Exemplo de vídeo [OS REFUGIADOS ANGOLANOS NO BRASIL](https://www.youtube.com/watch?v=jIMcCmfppbE)
+    - Exemplo de print dessa outra discussão não sera usado aqui.
+  - Interação de Rocha nessa postagem é uma das minhas ações em comunidade para
+    procurar reduzir hostilidade entre angolanos e entre angolanos e
+    migrantes/refugiaos de países vizinhos
+  - Na mesma postagem, Rocha menciona o projeto "recursos-desenvolvimento-periferia"
+    (não publico no momento da postagem)
+- [2019-03-09] [[Gato da Seriedade] Estratégias para programar na tua linguagem favorita em 2019 em computador com até 2GB de RAM & internet 3G?](https://www.facebook.com/groups/osadpa/permalink/1855280917910760/)
+  - Facebook, APDA: @fititnt
+  - Temas chave: _inclusão-digital_
+  - @TODO: descrever melhor impressões de Rocha sobre essa interação em comunidade (fititnt, 2019-03-16 17:38 BRT)
 - [2019-02-12] [Justificativa sobre zelo extra com novos membros na comunidade de código aberto / Contextualização via exemplo do código de Conduta do Ubuntu](https://github.com/pokemongovet/pokemongovet.github.io/pull/74#issuecomment-462642056)
   - github/pokemongovet: @fititnt
+- [2019-02-16] [Como eu fui de programar com um celular Nokia para trabalhar em uma Startup do MIT](https://www.facebook.com/groups/desenvolvimentoweb/permalink/2245704318821328/) <sup>(requer solicitar ser membro da comunidade)</sup>
+  - Facebook, Desenvolvimento Web: @fititnt (texto riginal de [Elvis Chidera](https://medium.freecodecamp.org/@elvischidera))
+    - Usa tradução automática da história [How I went from programming with a Nokia feature phone to working for an MIT Startup](https://medium.freecodecamp.org/how-i-went-from-programming-with-a-feature-phone-to-working-for-an-mit-startup-40ca3be4fa0f)
+  - Temas chave: _inclusão-digital, superação-pessoal, motivacional_
+  - Pontos observados:
+    - A postagem no grupo de 71 mil membros pretendia inspirar principalmente
+      brasileiros acreditarem que pessoas que programam usando celular tem sim
+      chance de serem programadores antes mesmo de terem um computador pessoal
+    - Ainda que pessoas não falem abertamente, essa foi primeira vez que me
+      pareceu que brasileiros também tem dificuldades com acesso a computadores
+      e com internet
+      - Essas pessoas parecem ter vergonha de admitir isso publicamente
+        - Parte das poucas que admitiram que tem desafios (certamente
+          brasileiros e talvez angolanos), até mesmo apagaram suas histórias de
+          vida nos comentários 😞
+        - Nota mental de Rocha: **é necessário pessoas que tenham coragem de falar
+          abertamente sem medo de serem julgadas pelos colegas sobre como
+          otimizar conhecimento para quem usa hardware e software restritos**,
+          me parece que as pessoas só teriam coragem de admitir abertamente
+          _depois_ que consderassem ter sucesso (como o Elvis Chidera)
 - [2017-05-01] [Opiniões para melhorar relação do Brasil entre importação e exportação de tecnologia, foco software](https://github.com/frontendbr/forum/issues/557)
   - github/frontendbr-forum: @fititnt
 - [2017-04-27] [Considerando lado da empresa: o que mudar na cultura dos desenvolvedores para aumentar competitividade do Brasil?](https://github.com/frontendbr/forum/issues/555)
@@ -41,13 +79,24 @@ práticas que induzem criatividade ou evitam redução desta.
     entre pessoas
   - Possivelmente intimidador, ou por falta de conhecimento, ou acredito,
     medo de haver retaliação ou ataques pessoais
-- [2017-03-19] [Vídeo e comentários sobre millennials no mercado de trabalho](https://www.facebook.com/fititnt/posts/1435809769803833)
+- [2017-03-19] [Vídeo e comentários sobre millennials no mercado de trabalho](https://www.facebook.com/fititnt/posts/1435809769803833) <sup>offline</sup>
   - facebook: @fititnt
+  - _Atualização: o link não está mais online; creio que tenha sido removido
+    automaticamente pelo Facebook porque minha postagem possuía um vídeo;
+    pena que não só o vídeo, mas também meus comentários foram apagados
+    (fititnt, 2019-03-16 17:45 BRT)_
 - [2017-03-03] [Hipótese sobre inteligência/criatividade em certos transtornos neurológicos ser mecanismo de enfrentamento](https://www.facebook.com/fititnt/posts/1416480918403385)
   - facebook: @fititnt
 - [2017-02-23] [Abordagem onde imitação é uma forma de aprendizagem poderoza](https://www.facebook.com/fititnt/posts/1408436005874543)
   - facebook: @fititnt
   - _Essa postagem foi uma das que motivou repensar como ajudar a comunidade_
+- [2016-11-15] [Do tratamento específico para falantes de português não nativos do Brasil e que não tem acesso ao mesmo padrão de conexão com internet](https://github.com/APDA-HQ/APDA/issues/43)
+  - APDA-HQ/APDA: @fititnt
+  - Temas chave: _xenofobia, preconceito, inclusão-digital_
+  - Nota: esta é uma postagem antiga, e eu, Rocha, não recomendo e normalmente
+    por padrão tendo a sempre anonimizar fotos e nomes (mesmo de discussões
+    publicas), pois as pessoas podem querer apagar ideias que não sustentam mais,
+    e não deveriam ser culpadas por _fazer o certo_.
 
 
 ## Sobre
