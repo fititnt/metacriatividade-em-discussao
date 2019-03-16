@@ -16,9 +16,9 @@
 title: Metacriatividade em discussão
 #email: emerson em alligo com br
 description: > # this means to ignore newlines until "baseurl:"
-  Links para discussões publicas em português sobre criatividade em ser criativo
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Links para discussões publicas em português sobre criatividade em ser criativo.
+baseurl: "/metacriatividade-em-discussao" # the subpath of your site, e.g. /blog
+url: "https://fititnt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fititnt
 github_username:  fititnt
 
